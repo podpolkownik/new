@@ -25,7 +25,7 @@ export const Introduction = () => {
             className="mb-12"
           >
             <img
-              src="https://sun9-54.userapi.com/impg/e5mE4pXwbiQModE9Xa0y53Mo_HkfpGFVaWI4Vw/sZpA5qJvwoc.jpg?size=1024x1024&quality=96&sign=d0fc03284d3d7a82e08694e65b314af7&type=album"
+              src="https://sun9-66.userapi.com/impg/r4t0qeoWXvoS8fWNrtXhpVGMzBk7DRZEnEvWlA/Vw7KOM7FWag.jpg?size=1024x1024&quality=96&sign=952f3eacb6afa5061b1c765a85207a1b&type=album"
               alt="Марта Санз Серрано"
               className="w-48 h-48 rounded-full object-cover mx-auto shadow-xl border-4 border-white"
             />
