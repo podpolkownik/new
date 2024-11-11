@@ -33,7 +33,7 @@ export const Header = () => (
           animate={{ opacity: 1 }}
           transition={{ delay: 0.4, duration: 0.8 }}
         >
-          История Марты Санз Серрано, 43 года
+          История Марты Санз Серрано, 45 лет
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
